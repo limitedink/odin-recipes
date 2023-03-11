@@ -8,8 +8,7 @@ h1{
 }
 h1.homepage {
     color: white;
-}
-    
+} 
 
 img{
     height:auto;
@@ -31,12 +30,16 @@ img{
     color:#8B4513;
   }
 
-  body.homepage {
+body.homepage {
     background-image: url("https://bigseventravel.com/wp-content/uploads/2019/10/spons-1.jpg");
     background-repeat: repeat-x;
     background-position: center top;
-
-    /* other background properties */
   }
   
+h2, 
+h3,
+p,
+li {
+  background-color: rgb(255, 242, 215);
+}
   
