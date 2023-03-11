@@ -5,9 +5,38 @@ body{
 
 h1{
     text-decoration: underline;
-    
 }
+h1.homepage {
+    color: white;
+}
+    
+
 img{
     height:auto;
     max-width:100%;
 }
+
+#home {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f7cac9;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+
+.recipe{
+    font-size: 25px;
+    background-color: rgb(255, 242, 215);
+    color:#8B4513;
+  }
+
+  body.homepage {
+    background-image: url("https://bigseventravel.com/wp-content/uploads/2019/10/spons-1.jpg");
+    background-repeat: repeat-x;
+    background-position: center top;
+
+    /* other background properties */
+  }
+  
+  
